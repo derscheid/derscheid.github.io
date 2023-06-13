@@ -1,0 +1,47 @@
+@charset "utf-8";
+body {
+ 	background-color: bright white;
+	color: #000000;
+	font-family: Helvetica Neue, Times New Roman;
+	font-size: 1.2em;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	}
+#type {
+	font-weight: bold;
+	display: inline;
+}
+
+#data {
+	display: inline;
+	border: 2px solid #3b8132;
+	padding: 4px;
+}
+
+#data2 {
+	display: inline;
+	border: 2px solid #3b8132;
+	padding: 4px;
+	color:white;
+}
+
+#section {
+	padding-bottom: 10px;
+}
+
+#net {
+	padding-top: 5px;
+}
+
+#twine {
+	margin-left: 30px;
+}
+
+#precut {
+	margin-left: 28px;
+}
+
+#preservative {
+	margin-left: 60px;
+}
